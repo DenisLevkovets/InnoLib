@@ -17,5 +17,6 @@
     </activity>
 
     <activity android:name=".Catalog"/>
+    <activity android:name=".Catalogs"/>
     </application>
 </manifest>
